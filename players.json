@@ -1,0 +1,39 @@
+[
+    {
+        "name": "SecRifal",
+        "avatar": "images/players/SecRifal.png",
+        "isAdmin": true,
+        "completedLevels": [
+            {
+                "name": "Classical",
+                "videoUrl": "https://youtu.be/YE2mEpY9aCM"
+            },
+            {
+                "name": "Bankomat",
+                "videoUrl": "https://youtu.be/oiDzOnQmsDQ"
+            }
+        ]
+    },
+    {
+        "name": "Mario",
+        "avatar": "images/players/Mario.png",
+        "isAdmin": false,
+        "completedLevels": []
+    },
+    {
+        "name": "Sr3l1ck",
+        "avatar": "images/players/Sr3l1ck.png",
+        "isAdmin": false,
+        "completedLevels": [
+            {
+                "name": "submited circles cha",
+                "videoUrl": "https://youtu.be/vzvHGSy3OFY"
+            },
+            {
+                "name": "unverified up",
+                "videoUrl": "https://youtu.be/9bYS1tEVQ-U?si=Fxn8F7iNSZjeed18"
+            }
+        ]
+    }
+
+]

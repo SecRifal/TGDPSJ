@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Classical",
+        "levelID": "114",
+        "creator": "SecRifal",
+        "videoURL": "https://youtu.be/HO93SOvjKw8",
+        "imageURL": "imgs/demons/Classical.png",
+        "Verifier": "SecRifal",
+        "verifURL": "https://youtu.be/YE2mEpY9aCM",
+        "xp": 5000
+    },
+    {
+        "name": "Bankomat",
+        "levelID": "164",
+        "creator": "SecRifal",
+        "videoURL": "https://youtu.be/2A-WLTmLE3Y",
+        "imageURL": "imgs/demons/Bankomat.png",
+        "Verifier": "SecRifal",
+        "verifURL": "https://youtu.be/oiDzOnQmsDQ",
+        "xp": 3900
+    },
+    {
+        "name": "End of the time",
+        "levelID": "162",
+        "creator": "sr3l1ck",
+        "videoURL": false,
+        "imageURL": "imgs/demons/End of the time.png",
+        "Verifier": "sr3l1ck",
+        "verifURL": false,
+        "xp": 1800
+    },
+    {
+        "name": "Firewall",
+        "levelID": "178",
+        "creator": "aptmember",
+        "videoURL": false,
+        "imageURL": "imgs/demons/Firewall.png",
+        "Verifier": "aptmember",
+        "verifURL": false,
+        "xp": 1700
+    },
+    {
+        "name": "sinister circles",
+        "levelID": "202",
+        "creator": "aptmember",
+        "videoURL": false,
+        "imageURL": "imgs/demons/sinister circles.png",
+        "Verifier": "aptmember",
+        "verifURL": false,
+        "xp": 1600
+    },
+    {
+        "name": "Chartreuse",
+        "levelID": "184",
+        "creator": "aptmember",
+        "videoURL": false,
+        "imageURL": "imgs/demons/Chartreuse.png",
+        "Verifier": "aptmember",
+        "verifURL": false,
+        "xp": 1500
+    },
+    {
+        "name": "Ice",
+        "levelID": "142",
+        "creator": "Pivo",
+        "videoURL": false,
+        "imageURL": "imgs/demons/Ice.png",
+        "Verifier": "Pivo",
+        "verifURL": false,
+        "xp": 1400
+    }
+]
