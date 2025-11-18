@@ -7,7 +7,7 @@
         "imageURL": "imgs/demons/Classical.png",
         "Verifier": "SecRifal",
         "verifURL": "https://youtu.be/YE2mEpY9aCM",
-        "xp": 5000
+        "xp": 2000
     },
     {
         "name": "Bankomat",
@@ -17,7 +17,7 @@
         "imageURL": "imgs/demons/Bankomat.png",
         "Verifier": "SecRifal",
         "verifURL": "https://youtu.be/oiDzOnQmsDQ",
-        "xp": 3900
+        "xp": 1650
     },
     {
         "name": "End of the time",
@@ -27,7 +27,7 @@
         "imageURL": "imgs/demons/End of the time.png",
         "Verifier": "sr3l1ck",
         "verifURL": false,
-        "xp": 1800
+        "xp": 1350
     },
     {
         "name": "Firewall",
@@ -37,7 +37,7 @@
         "imageURL": "imgs/demons/Firewall.png",
         "Verifier": "aptmember",
         "verifURL": false,
-        "xp": 1700
+        "xp": 1235
     },
     {
         "name": "sinister circles",
@@ -47,7 +47,7 @@
         "imageURL": "imgs/demons/sinister circles.png",
         "Verifier": "aptmember",
         "verifURL": false,
-        "xp": 1600
+        "xp": 1200
     },
     {
         "name": "Chartreuse",
@@ -57,7 +57,7 @@
         "imageURL": "imgs/demons/Chartreuse.png",
         "Verifier": "aptmember",
         "verifURL": false,
-        "xp": 1500
+        "xp": 1150
     },
     {
         "name": "Ice",
@@ -67,6 +67,6 @@
         "imageURL": "imgs/demons/Ice.png",
         "Verifier": "Pivo",
         "verifURL": false,
-        "xp": 1400
+        "xp": 700
     }
 ]
