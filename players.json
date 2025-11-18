@@ -56,5 +56,11 @@
                 "videoUrl": "https://youtu.be/vfKL1olfII8?si=Zb0_rS0D8x7hLSjS"
             }
         ]
+    },
+    {
+        "name": "Bakha",
+        "avatar": "images/players/Bakha.png",
+        "isAdmin": false,
+        "completedLevels": []
     }
 ]
