@@ -108,15 +108,5 @@
     "Verifier": "dobryansky",
     "verifURL": false,
     "xp": 100
-  },
-  {
-    "name": "test",
-    "levelID": "1",
-    "creator": "test",
-    "videoURL": false,
-    "imageURL": "test",
-    "Verifier": "test",
-    "verifURL": false,
-    "xp": 0
   }
 ]
