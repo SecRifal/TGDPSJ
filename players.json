@@ -34,6 +34,18 @@
                 "videoUrl": "https://youtu.be/9bYS1tEVQ-U?si=Fxn8F7iNSZjeed18"
             }
         ]
+    },
+    {
+        "name": "Krimux",
+        "avatar": "images/players/Krimux.png",
+        "isAdmin": false,
+        "completedLevels": [
+            {
+                "name": "Ice",
+                "videoUrl": "https://youtu.be/gQRk9dqyEuk?si=3jU5s-k7QK01uI16"
+            }
+        ]
     }
+
 
 ]
