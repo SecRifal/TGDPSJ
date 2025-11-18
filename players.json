@@ -45,7 +45,16 @@
                 "videoUrl": "https://youtu.be/gQRk9dqyEuk?si=3jU5s-k7QK01uI16"
             }
         ]
+    },
+    {
+        "name": "KopelaSoula",
+        "avatar": "images/players/KopelaSoula.png",
+        "isAdmin": false,
+        "completedLevels": [
+            {
+                "name": "MONTAGEM ALUCINANTE",
+                "videoUrl": "https://youtu.be/vfKL1olfII8?si=Zb0_rS0D8x7hLSjS"
+            }
+        ]
     }
-
-
 ]
