@@ -62,5 +62,17 @@
         "avatar": "images/players/Bakha.png",
         "isAdmin": false,
         "completedLevels": []
+    },
+    {
+        "name": "BoSinn",
+        "avatar": "images/players/BoSinn.png",
+        "isAdmin": false,
+        "completedLevels": []
+    },
+    {
+        "name": "Dobryanskyv2",
+        "avatar": "images/players/Dobryanskyv2.png",
+        "isAdmin": false,
+        "completedLevels": []
     }
 ]
