@@ -73,6 +73,19 @@
         "name": "Dobryanskyv2",
         "avatar": "images/players/Dobryanskyv2.png",
         "isAdmin": false,
-        "completedLevels": []
+        "completedLevels": [
+            {
+                "name": "The great chamberx2",
+                "videoUrl": false
+            },
+            {
+                "name": "Classical chamber",
+                "videoUrl": false
+            },
+            {
+                "name": "Made in 83 days x2",
+                "videoUrl": false
+            }
+        ]
     }
 ]
