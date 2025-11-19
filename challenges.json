@@ -1,112 +1,112 @@
 [
-    {
-        "name": "The Winter Hell",
-        "levelID": "240",
-        "creator": "jamichi & ARHYSHOWS",
-        "videoURL": false,
-        "imageURL": "imgs/challenges/The Winter Hell.png",
-        "Verifier": "ARHYSHOWS",
-        "verifURL": "https://www.youtube.com/watch?v=E-zeFCSYH94",
-        "xp": 1500
-    },
-    {
-        "name": "9f321j4lZ10",
-        "levelID": "229",
-        "creator": "1NSANI1TY",
-        "videoURL": false,
-        "imageURL": "imgs/challenges/9f321j4lZ10.png",
-        "Verifier": "1NSANI1TY",
-        "verifURL": "https://youtu.be/EqbRb_PJHc4",
-        "xp": 1200
-    },
-    {
-        "name": "MONTAGEM ALUCINANTE",
-        "levelID": "242",
-        "creator": "KopelaSoula",
-        "videoURL": false,
-        "imageURL": "imgs/challenges/MONTAGEM ALUCINANTE.png",
-        "Verifier": "KopelaSoula",
-        "verifURL": "https://youtu.be/vfKL1olfII8?si=Zb0_rS0D8x7hLSjS",
-        "xp": 1000
-    },
-    {
-        "name": "unverified up",
-        "levelID": "179",
-        "creator": "sr3l1ck",
-        "videoURL": false,
-        "imageURL": "imgs/challenges/unverified up.png",
-        "Verifier": "sr3l1ck",
-        "verifURL": "https://youtu.be/9bYS1tEVQ-U?si=Fxn8F7iNSZjeed18",
-        "xp": 900
-    },
-    {
-        "name": "xenomorph rule34",
-        "levelID": "180",
-        "creator": "corpse12",
-        "videoURL": false,
-        "imageURL": "imgs/challenges/xenomorph rule34.png",
-        "Verifier": "corpse12",
-        "verifURL": false,
-        "xp": 850
-    },
-    {
-        "name": "submited circles cha",
-        "levelID": "244",
-        "creator": "sr3l1ck",
-        "videoURL": false,
-        "imageURL": "imgs/challenges/submited circles cha.png",
-        "Verifier": "sr3l1ck",
-        "verifURL": "https://youtu.be/vzvHGSy3OFY",
-        "xp": 830
-    },
-    {
-        "name": "Great Chamber X",
-        "levelID": "183",
-        "creator": "corpse12",
-        "videoURL": false,
-        "imageURL": "imgs/challenges/Great Chamber X.png",
-        "Verifier": "corpse12",
-        "verifURL": false,
-        "xp": 320
-    },
-    {
-        "name": "Made in 83 days x2",
-        "levelID": "119",
-        "creator": "dobryansky",
-        "videoURL": false,
-        "imageURL": "imgs/challenges/Made in 83 days x2.png",
-        "Verifier": "dobryansky",
-        "verifURL": false,
-        "xp": 300
-    },
-    {
-        "name": "Ship challenge",
-        "levelID": "122",
-        "creator": "Dumontyt",
-        "videoURL": false,
-        "imageURL": "imgs/challenges/Ship challenge.png",
-        "Verifier": "Dumontyt",
-        "verifURL": false,
-        "xp": 250
-    },
-    {
-        "name": "Classical chamber",
-        "levelID": "200",
-        "creator": "Dobryanskyv2",
-        "videoURL": false,
-        "imageURL": "imgs/challenges/Classical chamber.png",
-        "Verifier": "Dobryanskyv2",
-        "verifURL": false,
-        "xp": 150
-    },
-    {
-        "name": "The great chamberx2",
-        "levelID": "141",
-        "creator": "dobryansky",
-        "videoURL": false,
-        "imageURL": "imgs/challenges/The great chamberx2.png",
-        "Verifier": "dobryansky",
-        "verifURL": false,
-        "xp": 100
-    }
+  {
+    "name": "The Winter Hell",
+    "levelID": "240",
+    "creator": "jamichi & ARHYSHOWS",
+    "videoURL": false,
+    "imageURL": "imgs/challenges/The Winter Hell.png",
+    "Verifier": "ARHYSHOWS",
+    "verifURL": "https://www.youtube.com/watch?v=E-zeFCSYH94",
+    "xp": 1500
+  },
+  {
+    "name": "9f321j4lZ10",
+    "levelID": "229",
+    "creator": "1NSANI1TY",
+    "videoURL": false,
+    "imageURL": "imgs/challenges/9f321j4lZ10.png",
+    "Verifier": "1NSANI1TY",
+    "verifURL": "https://youtu.be/EqbRb_PJHc4",
+    "xp": 1200
+  },
+  {
+    "name": "MONTAGEM ALUCINANTE",
+    "levelID": "242",
+    "creator": "KopelaSoula",
+    "videoURL": false,
+    "imageURL": "imgs/challenges/MONTAGEM ALUCINANTE.png",
+    "Verifier": "KopelaSoula",
+    "verifURL": "https://youtu.be/vfKL1olfII8?si=Zb0_rS0D8x7hLSjS",
+    "xp": 1000
+  },
+  {
+    "name": "unverified up",
+    "levelID": "179",
+    "creator": "sr3l1ck",
+    "videoURL": false,
+    "imageURL": "imgs/challenges/unverified up.png",
+    "Verifier": "sr3l1ck",
+    "verifURL": "https://youtu.be/9bYS1tEVQ-U?si=Fxn8F7iNSZjeed18",
+    "xp": 900
+  },
+  {
+    "name": "xenomorph rule34",
+    "levelID": "180",
+    "creator": "corpse12",
+    "videoURL": false,
+    "imageURL": "imgs/challenges/xenomorph rule34.png",
+    "Verifier": "corpse12",
+    "verifURL": false,
+    "xp": 850
+  },
+  {
+    "name": "submited circles cha",
+    "levelID": "244",
+    "creator": "sr3l1ck",
+    "videoURL": false,
+    "imageURL": "imgs/challenges/submited circles cha.png",
+    "Verifier": "sr3l1ck",
+    "verifURL": "https://youtu.be/vzvHGSy3OFY",
+    "xp": 830
+  },
+  {
+    "name": "Great Chamber X",
+    "levelID": "183",
+    "creator": "corpse12",
+    "videoURL": false,
+    "imageURL": "imgs/challenges/Great Chamber X.png",
+    "Verifier": "corpse12",
+    "verifURL": false,
+    "xp": 320
+  },
+  {
+    "name": "Made in 83 days x2",
+    "levelID": "119",
+    "creator": "dobryansky",
+    "videoURL": false,
+    "imageURL": "imgs/challenges/Made in 83 days x2.png",
+    "Verifier": "dobryansky",
+    "verifURL": false,
+    "xp": 300
+  },
+  {
+    "name": "Ship challenge",
+    "levelID": "122",
+    "creator": "Dumontyt",
+    "videoURL": false,
+    "imageURL": "imgs/challenges/Ship challenge.png",
+    "Verifier": "Dumontyt",
+    "verifURL": false,
+    "xp": 250
+  },
+  {
+    "name": "Classical chamber",
+    "levelID": "200",
+    "creator": "Dobryanskyv2",
+    "videoURL": false,
+    "imageURL": "imgs/challenges/Classical chamber.png",
+    "Verifier": "Dobryanskyv2",
+    "verifURL": false,
+    "xp": 150
+  },
+  {
+    "name": "The great chamberx2",
+    "levelID": "141",
+    "creator": "dobryansky",
+    "videoURL": false,
+    "imageURL": "imgs/challenges/The great chamberx2.png",
+    "Verifier": "dobryansky",
+    "verifURL": false,
+    "xp": 100
+  }
 ]
