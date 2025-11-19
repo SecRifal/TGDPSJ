@@ -87,5 +87,11 @@
                 "videoUrl": false
             }
         ]
+    },
+    {
+        "name": "NotianBlue",
+        "avatar": "images/players/NotianBlue.png",
+        "isAdmin": false,
+        "completedLevels": []
     }
 ]
