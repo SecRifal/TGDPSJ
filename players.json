@@ -93,5 +93,11 @@
         "avatar": "images/players/NotianBlue.png",
         "isAdmin": false,
         "completedLevels": []
+    },
+    {
+        "name": "Diman4ik",
+        "avatar": "images/players/Diman4ik.png",
+        "isAdmin": false,
+        "completedLevels": []
     }
 ]
