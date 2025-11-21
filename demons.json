@@ -60,6 +60,16 @@
         "xp": 1150
     },
     {
+        "name": "Megalovania",
+        "levelID": "165",
+        "creator": "SecRifal",
+        "videoURL": false,
+        "imageURL": "imgs/demons/Megalovania.png",
+        "Verifier": "SecRifal",
+        "verifURL": false,
+        "xp": 900
+    },
+    {
         "name": "Ice",
         "levelID": "142",
         "creator": "Pivo",
