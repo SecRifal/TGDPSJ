@@ -103,5 +103,24 @@
         "avatar": "images/players/Diman4ik.png",
         "isAdmin": false,
         "completedLevels": []
+    },
+    {
+        "name": "KrictNOLr",
+        "avatar": "images/players/KrictNOLr.png",
+        "isAdmin": false,
+        "completedLevels": [
+            {
+                "name": "Great Chamber X",
+                "videoUrl": "https://youtu.be/J9STQvTnLyg"
+            },
+            {
+                "name": "Made in 83 days x2",
+                "videoUrl": "https://youtu.be/s_vhaR6hAVw"
+            },
+            {
+                "name": "The great chamberx2",
+                "videoUrl": "https://youtu.be/3wvAChpRduk"
+            }
+        ]
     }
 ]
