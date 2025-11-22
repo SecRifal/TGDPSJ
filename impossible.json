@@ -3,12 +3,14 @@
         "name": "Test Impossible Level",
         "levelID": "666",
         "creator": "Test",
-        "videoURL": false
+        "videoURL": false,
+        "position": 2
     },
     {
         "name": "Test Impossible Level 2",
         "levelID": "1",
         "creator": "Test2",
-        "videoURL": "https://www.youtube.com"
+        "videoURL": "https://www.youtube.com",
+        "position": 1
     }
 ]
