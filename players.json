@@ -138,5 +138,16 @@
                 "videoUrl": false
             }
         ]
+    },
+    {
+        "name": "jamichi",
+        "avatar": "images/players/jamichi.png",
+        "isAdmin": false,
+        "completedLevels": [
+            {
+                "name": "ebloid",
+                "videoUrl": " https://youtu.be/M2-PoTROgdA"
+            }
+        ]
     }
 ]
