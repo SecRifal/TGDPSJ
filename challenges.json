@@ -1,5 +1,15 @@
 [
   {
+    "name": "ebloid",
+    "levelID": "276",
+    "creator": "Zefirfy",
+    "videoURL": false,
+    "imageURL": "imgs/challenges/.png",
+    "Verifier": "KopelaSoula",
+    "verifURL": "https://youtu.be/fnKUvkz9Xh8?si=Fe769ge6nX2oSPUF",
+    "xp": 2000
+  },
+  {
     "name": "The Winter Hell",
     "levelID": "240",
     "creator": "jamichi & ARHYSHOWS",
