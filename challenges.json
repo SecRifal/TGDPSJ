@@ -1,5 +1,15 @@
 [
   {
+    "name": "How do you do",
+    "levelID": "280",
+    "creator": "SecRifal",
+    "videoURL": false,
+    "imageURL": "imgs/challenges/How do you do.png",
+    "Verifier": "SecRifal",
+    "verifURL": "https://youtube.com/shorts/DaVhb4PT62s?feature=share",
+    "xp": 2500
+  },
+  {
     "name": "ebloid",
     "levelID": "276",
     "creator": "Zefirfy",

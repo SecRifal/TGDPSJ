@@ -142,5 +142,16 @@
                 "videoUrl": "https://youtu.be/lktpcKCFLP8"
             }
         ]
+    },
+    {
+        "name": "ARHYSHOWS",
+        "avatar": "images/players/ARHYSHOWS.png",
+        "isAdmin": false,
+        "completedLevels": [
+            {
+                "name": "The Winter Hell",
+                "videoUrl": false
+            }
+        ]
     }
 ]
