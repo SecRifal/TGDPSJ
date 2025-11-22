@@ -63,10 +63,10 @@
         "name": "Megalovania",
         "levelID": "165",
         "creator": "SecRifal",
-        "videoURL": false,
+        "videoURL": "https://youtu.be/nhoUIUREZoc?si=wvx81znOdI-Tmnib",
         "imageURL": "imgs/demons/Megalovania.png",
         "Verifier": "SecRifal",
-        "verifURL": "https://youtu.be/nhoUIUREZoc?si=wvx81znOdI-Tmnib",
+        "verifURL": false,
         "xp": 900
     },
     {
