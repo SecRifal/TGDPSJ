@@ -40,16 +40,6 @@
     "xp": 1300
   },
   {
-    "name": "9f321j4lZ10",
-    "levelID": "229",
-    "creator": "1NSANI1TY",
-    "videoURL": false,
-    "imageURL": "imgs/challenges/9f321j4lZ10.png",
-    "Verifier": "1NSANI1TY",
-    "verifURL": "https://youtu.be/EqbRb_PJHc4",
-    "xp": 1200
-  },
-  {
     "name": "MONTAGEM ALUCINANTE",
     "levelID": "242",
     "creator": "KopelaSoula",
@@ -57,6 +47,26 @@
     "imageURL": "imgs/challenges/MONTAGEM ALUCINANTE.png",
     "Verifier": "KopelaSoula",
     "verifURL": "https://youtu.be/vfKL1olfII8?si=Zb0_rS0D8x7hLSjS",
+    "xp": 1200
+  },
+  {
+    "name": "Final Destiwation",
+    "levelID": "282",
+    "creator": "AkauntNotFound",
+    "videoURL": false,
+    "imageURL": "imgs/challenges/Final Destiwation.png",
+    "Verifier": "AkauntNotFound",
+    "verifURL": "https://youtu.be/P0wb60-nCkk",
+    "xp": 1100
+  },
+  {
+    "name": "9f321j4lZ10",
+    "levelID": "229",
+    "creator": "1NSANI1TY",
+    "videoURL": false,
+    "imageURL": "imgs/challenges/9f321j4lZ10.png",
+    "Verifier": "1NSANI1TY",
+    "verifURL": "https://youtu.be/EqbRb_PJHc4",
     "xp": 1000
   },
   {
