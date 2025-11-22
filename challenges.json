@@ -20,16 +20,6 @@
     "xp": 2000
   },
   {
-    "name": "ThunderZone",
-    "levelID": "277",
-    "creator": "4444",
-    "videoURL": false,
-    "imageURL": "imgs/challenges/ThunderZone.png",
-    "Verifier": "4444",
-    "verifURL": "https://youtu.be/epgqKsaUiz0",
-    "xp": 1500
-  },
-  {
     "name": "ebloid",
     "levelID": "276",
     "creator": "Zefirfy",
@@ -38,6 +28,16 @@
     "Verifier": "KopelaSoula",
     "verifURL": "https://youtu.be/fnKUvkz9Xh8?si=Fe769ge6nX2oSPUF",
     "xp": 1300
+  },
+  {
+    "name": "ThunderZone",
+    "levelID": "277",
+    "creator": "4444",
+    "videoURL": false,
+    "imageURL": "imgs/challenges/ThunderZone.png",
+    "Verifier": "4444",
+    "verifURL": "https://youtu.be/epgqKsaUiz0",
+    "xp": 1500
   },
   {
     "name": "9f321j4lZ10",
