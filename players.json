@@ -26,7 +26,12 @@
         "name": "Mario",
         "avatar": "images/players/Mario.png",
         "isAdmin": false,
-        "completedLevels": []
+        "completedLevels": [
+            {
+                "name": "Ice",
+                "videoUrl": "https://www.youtube.com/watch?v=tOZE6nV3zZk"
+            }
+        ]
     },
     {
         "name": "Sr3l1ck",
@@ -74,18 +79,6 @@
         ]
     },
     {
-        "name": "Bakha",
-        "avatar": "images/players/Bakha.png",
-        "isAdmin": false,
-        "completedLevels": []
-    },
-    {
-        "name": "BoSinn",
-        "avatar": "images/players/BoSinn.png",
-        "isAdmin": false,
-        "completedLevels": []
-    },
-    {
         "name": "Dobryanskyv2",
         "avatar": "images/players/Dobryanskyv2.png",
         "isAdmin": false,
@@ -103,18 +96,6 @@
                 "videoUrl": false
             }
         ]
-    },
-    {
-        "name": "NotianBlue",
-        "avatar": "images/players/NotianBlue.png",
-        "isAdmin": false,
-        "completedLevels": []
-    },
-    {
-        "name": "Diman4ik",
-        "avatar": "images/players/Diman4ik.png",
-        "isAdmin": false,
-        "completedLevels": []
     },
     {
         "name": "KrictNOLr",
