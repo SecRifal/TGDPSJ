@@ -8,6 +8,16 @@
     "Verifier": "SecRifal",
     "verifURL": "https://youtube.com/shorts/DaVhb4PT62s?feature=share",
     "xp": 2500
+  }, 
+  {
+    "name": "The Winter Hell",
+    "levelID": "240",
+    "creator": "jamichi & ARHYSHOWS",
+    "videoURL": false,
+    "imageURL": "imgs/challenges/The Winter Hell.png",
+    "Verifier": "ARHYSHOWS",
+    "verifURL": "https://www.youtube.com/watch?v=E-zeFCSYH94",
+    "xp": 2000
   },
   {
     "name": "ebloid",
@@ -17,16 +27,6 @@
     "imageURL": "imgs/challenges/.png",
     "Verifier": "KopelaSoula",
     "verifURL": "https://youtu.be/fnKUvkz9Xh8?si=Fe769ge6nX2oSPUF",
-    "xp": 2000
-  },
-  {
-    "name": "The Winter Hell",
-    "levelID": "240",
-    "creator": "jamichi & ARHYSHOWS",
-    "videoURL": false,
-    "imageURL": "imgs/challenges/The Winter Hell.png",
-    "Verifier": "ARHYSHOWS",
-    "verifURL": "https://www.youtube.com/watch?v=E-zeFCSYH94",
     "xp": 1500
   },
   {
