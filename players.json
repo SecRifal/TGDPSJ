@@ -157,5 +157,24 @@
                 "videoUrl": " https://youtu.be/M2-PoTROgdA"
             }
         ]
+    },
+    {
+        "name": "1nsani1ty",
+        "avatar": "images/players/1nsani1ty.png",
+        "isAdmin": false,
+        "completedLevels": [
+            {
+                "name": "ThunderZone",
+                "videoUrl": "https://youtu.be/ZNyO1EkiDKY"
+            },
+            {
+                "name": "9f321j4lZ10",
+                "videoUrl": "https://youtu.be/EqbRb_PJHc4"
+            },
+            {
+                "name": "yo dance",
+                "videoUrl": "https://youtu.be/q9qMSRx3uug"
+            }
+        ]
     }
 ]

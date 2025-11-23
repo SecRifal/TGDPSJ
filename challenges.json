@@ -20,6 +20,16 @@
     "xp": 2000
   },
   {
+    "name": "yo dance",
+    "levelID": "284",
+    "creator": "1nsani1ty",
+    "videoURL": false,
+    "imageURL": "imgs/challenges/yo dance.png",
+    "Verifier": "1nsani1ty",
+    "verifURL": "https://youtu.be/q9qMSRx3uug",
+    "xp": 1800
+  },
+  {
     "name": "ebloid",
     "levelID": "276",
     "creator": "Zefirfy",
