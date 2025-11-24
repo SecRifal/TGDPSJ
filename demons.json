@@ -7,6 +7,7 @@
         "imageURL": "imgs/demons/Classical.png",
         "Verifier": "SecRifal",
         "verifURL": "https://youtu.be/YE2mEpY9aCM",
+        "stars": 50,
         "xp": 2000
     },
     {
@@ -17,6 +18,7 @@
         "imageURL": "imgs/demons/Bankomat.png",
         "Verifier": "SecRifal",
         "verifURL": "https://youtu.be/oiDzOnQmsDQ",
+        "stars": 40,
         "xp": 1650
     },
     {
@@ -27,6 +29,7 @@
         "imageURL": "imgs/demons/End of the time.png",
         "Verifier": "sr3l1ck",
         "verifURL": "https://youtu.be/AbvLthoVll4?si=X-CBiPBoqg55k7-q",
+        "stars": 20,
         "xp": 1350
     },
     {
@@ -37,6 +40,7 @@
         "imageURL": "imgs/demons/Firewall.png",
         "Verifier": "aptmember",
         "verifURL": false,
+        "stars": 18,
         "xp": 1235
     },
     {
@@ -47,6 +51,7 @@
         "imageURL": "imgs/demons/sinister circles.png",
         "Verifier": "aptmember",
         "verifURL": false,
+        "stars": 17,
         "xp": 1200
     },
     {
@@ -57,6 +62,7 @@
         "imageURL": "imgs/demons/Chartreuse.png",
         "Verifier": "aptmember",
         "verifURL": false,
+        "stars": 16,
         "xp": 1150
     },
     {
@@ -67,6 +73,7 @@
         "imageURL": "imgs/demons/Megalovania.png",
         "Verifier": "SecRifal",
         "verifURL": false,
+        "stars": 15,
         "xp": 900
     },
     {
@@ -77,6 +84,7 @@
         "imageURL": "imgs/demons/Ice.png",
         "Verifier": "Pivo",
         "verifURL": false,
+        "stars": 5,
         "xp": 700
     }
 ]

@@ -1,15 +1,5 @@
 [
   {
-    "name": "How do you do",
-    "levelID": "280",
-    "creator": "SecRifal",
-    "videoURL": false,
-    "imageURL": "imgs/challenges/How do you do.png",
-    "Verifier": "SecRifal",
-    "verifURL": "https://youtube.com/shorts/DaVhb4PT62s?feature=share",
-    "xp": 2100
-  }, 
-  {
     "name": "The Winter Hell",
     "levelID": "240",
     "creator": "jamichi & ARHYSHOWS",
@@ -17,6 +7,7 @@
     "imageURL": "imgs/challenges/The Winter Hell.png",
     "Verifier": "ARHYSHOWS",
     "verifURL": "https://www.youtube.com/watch?v=E-zeFCSYH94",
+    "stars": 40,
     "xp": 2000
   },
   {
@@ -27,6 +18,7 @@
     "imageURL": "imgs/challenges/yo dance.png",
     "Verifier": "1nsani1ty",
     "verifURL": "https://youtu.be/q9qMSRx3uug",
+    "stars": 35,
     "xp": 1800
   },
   {
@@ -37,6 +29,7 @@
     "imageURL": "imgs/challenges/ebloid.png",
     "Verifier": "KopelaSoula",
     "verifURL": "https://youtu.be/fnKUvkz9Xh8?si=Fe769ge6nX2oSPUF",
+    "stars": 30,
     "xp": 1500
   },
   {
@@ -47,6 +40,7 @@
     "imageURL": "imgs/challenges/ThunderZone.png",
     "Verifier": "4444",
     "verifURL": "https://youtu.be/epgqKsaUiz0",
+    "stars": 25,
     "xp": 1300
   },
   {
@@ -57,6 +51,7 @@
     "imageURL": "imgs/challenges/MONTAGEM ALUCINANTE.png",
     "Verifier": "KopelaSoula",
     "verifURL": "https://youtu.be/vfKL1olfII8?si=Zb0_rS0D8x7hLSjS",
+    "stars": 23,
     "xp": 1200
   },
   {
@@ -67,6 +62,7 @@
     "imageURL": "imgs/challenges/Final Destiwation.png",
     "Verifier": "AkauntNotFound",
     "verifURL": "https://youtu.be/P0wb60-nCkk",
+    "stars": 20,
     "xp": 1100
   },
   {
@@ -77,6 +73,7 @@
     "imageURL": "imgs/challenges/9f321j4lZ10.png",
     "Verifier": "1NSANI1TY",
     "verifURL": "https://youtu.be/EqbRb_PJHc4",
+    "stars": 19,
     "xp": 1000
   },
   {
@@ -87,6 +84,7 @@
     "imageURL": "imgs/challenges/Aichmophobia Easy.png",
     "Verifier": "KrictNOLr",
     "verifURL": "https://youtu.be/lktpcKCFLP8",
+    "stars": 18,
     "xp": 900
   },
   {
@@ -97,6 +95,7 @@
     "imageURL": "imgs/challenges/unverified up.png",
     "Verifier": "sr3l1ck",
     "verifURL": "https://youtu.be/9bYS1tEVQ-U?si=Fxn8F7iNSZjeed18",
+    "stars": 15,
     "xp": 880
   },
   {
@@ -107,6 +106,7 @@
     "imageURL": "imgs/challenges/xenomorph rule34.png",
     "Verifier": "corpse12",
     "verifURL": false,
+    "stars": 10,
     "xp": 850
   },
   {
@@ -117,6 +117,7 @@
     "imageURL": "imgs/challenges/Ship challenge.png",
     "Verifier": "Dumontyt",
     "verifURL": false,
+    "stars": 5,
     "xp": 300
   },
   {
@@ -127,6 +128,7 @@
     "imageURL": "imgs/challenges/Made in 83 days x2.png",
     "Verifier": "dobryansky",
     "verifURL": false,
+    "stars": 4,
     "xp": 290
   },
   {
@@ -137,6 +139,7 @@
     "imageURL": "imgs/challenges/submited circles cha.png",
     "Verifier": "sr3l1ck",
     "verifURL": "https://youtu.be/vzvHGSy3OFY",
+    "stars": 3,
     "xp": 250
   },
   {
@@ -147,6 +150,7 @@
     "imageURL": "imgs/challenges/Great Chamber X.png",
     "Verifier": "corpse12",
     "verifURL": false,
+    "stars": 2,
     "xp": 200
   },
   {
@@ -157,6 +161,7 @@
     "imageURL": "imgs/challenges/Classical chamber.png",
     "Verifier": "Dobryanskyv2",
     "verifURL": false,
+    "stars": 1,
     "xp": 150
   },
   {
@@ -167,6 +172,7 @@
     "imageURL": "imgs/challenges/The great chamberx2.png",
     "Verifier": "dobryansky",
     "verifURL": false,
+    "stars": 1,
     "xp": 100
   }
 ]

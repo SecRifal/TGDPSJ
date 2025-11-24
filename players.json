@@ -6,19 +6,23 @@
         "completedLevels": [
             {
                 "name": "Classical",
-                "videoURL": "https://youtu.be/YE2mEpY9aCM"
+                "videoURL": "https://youtu.be/YE2mEpY9aCM",
+                "date": ""
             },
             {
                 "name": "Bankomat",
-                "videoURL": "https://youtu.be/oiDzOnQmsDQ"
+                "videoURL": "https://youtu.be/oiDzOnQmsDQ",
+                "date": ""
             },
             {
                 "name": "Megalovania",
-                "videoURL": "https://youtu.be/nhoUIUREZoc?si=wvx81znOdI-Tmnib"
+                "videoURL": "https://youtu.be/nhoUIUREZoc?si=wvx81znOdI-Tmnib",
+                "date": ""
             },
             {
                 "name": "How do you do",
-                "videoURL": "https://youtube.com/shorts/DaVhb4PT62s?feature=share"
+                "videoURL": "https://youtube.com/shorts/DaVhb4PT62s?feature=share",
+                "date": ""
             }
         ]
     },
@@ -29,15 +33,18 @@
         "completedLevels": [
             {
                 "name": "Ice",
-                "videoURL": "https://www.youtube.com/watch?v=tOZE6nV3zZk"
+                "videoURL": "https://www.youtube.com/watch?v=tOZE6nV3zZk",
+                "date": ""
             },
             {
                 "name": "ThunderZone",
-                "videoURL": "https://youtu.be/DnjMxBkOICg"
+                "videoURL": "https://youtu.be/DnjMxBkOICg",
+                "date": ""
             },
             {
                 "name": "The great chamberx2",
-                "videoURL": "https://www.youtube.com/watch?v=PZVGzmDrxVA"
+                "videoURL": "https://www.youtube.com/watch?v=PZVGzmDrxVA",
+                "date": ""
             }
         ]
     },
@@ -48,15 +55,18 @@
         "completedLevels": [
             {
                 "name": "submited circles cha",
-                "videoURL": "https://youtu.be/vzvHGSy3OFY"
+                "videoURL": "https://youtu.be/vzvHGSy3OFY",
+                "date": ""
             },
             {
                 "name": "unverified up",
-                "videoURL": "https://youtu.be/9bYS1tEVQ-U?si=Fxn8F7iNSZjeed18"
+                "videoURL": "https://youtu.be/9bYS1tEVQ-U?si=Fxn8F7iNSZjeed18",
+                "date": ""
             },
             {
                 "name": "End of the time",
-                "videoURL": "https://youtu.be/AbvLthoVll4?si=X-CBiPBoqg55k7-q"
+                "videoURL": "https://youtu.be/AbvLthoVll4?si=X-CBiPBoqg55k7-q",
+                "date": ""
             }
         ]
     },
@@ -67,7 +77,8 @@
         "completedLevels": [
             {
                 "name": "Ice",
-                "videoURL": "https://youtu.be/gQRk9dqyEuk?si=3jU5s-k7QK01uI16"
+                "videoURL": "https://youtu.be/gQRk9dqyEuk?si=3jU5s-k7QK01uI16",
+                "date": ""
             }
         ]
     },
@@ -78,30 +89,13 @@
         "completedLevels": [
             {
                 "name": "MONTAGEM ALUCINANTE",
-                "videoURL": "https://youtu.be/vfKL1olfII8?si=Zb0_rS0D8x7hLSjS"
+                "videoURL": "https://youtu.be/vfKL1olfII8?si=Zb0_rS0D8x7hLSjS",
+                "date": ""
             },
             {
                 "name": "ebloid",
-                "videoURL": "https://youtu.be/fnKUvkz9Xh8?si=Fe769ge6nX2oSPUF"
-            }
-        ]
-    },
-    {
-        "name": "Dobryanskyv2",
-        "avatar": "images/players/Dobryanskyv2.png",
-        "isAdmin": false,
-        "completedLevels": [
-            {
-                "name": "The great chamberx2",
-                "videoURL": false
-            },
-            {
-                "name": "Classical chamber",
-                "videoURL": false
-            },
-            {
-                "name": "Made in 83 days x2",
-                "videoURL": false
+                "videoURL": "https://youtu.be/fnKUvkz9Xh8?si=Fe769ge6nX2oSPUF",
+                "date": ""
             }
         ]
     },
@@ -112,27 +106,33 @@
         "completedLevels": [
             {
                 "name": "Great Chamber X",
-                "videoURL": "https://youtu.be/J9STQvTnLyg"
+                "videoURL": "https://youtu.be/J9STQvTnLyg",
+                "date": ""
             },
             {
                 "name": "Made in 83 days x2",
-                "videoURL": "https://youtu.be/s_vhaR6hAVw"
+                "videoURL": "https://youtu.be/s_vhaR6hAVw",
+                "date": ""
             },
             {
                 "name": "The great chamberx2",
-                "videoURL": "https://youtu.be/3wvAChpRduk"
+                "videoURL": "https://youtu.be/3wvAChpRduk",
+                "date": ""
             },
             {
                 "name": "Classical chamber",
-                "videoURL": "https://youtu.be/pvmNaHkVCaM"
+                "videoURL": "https://youtu.be/pvmNaHkVCaM",
+                "date": ""
             },
             {
                 "name": "Ice",
-                "videoURL": "https://youtu.be/xRjrfBazVb0"
+                "videoURL": "https://youtu.be/xRjrfBazVb0",
+                "date": ""
             },
             {
                 "name": "Aichmophobia Easy",
-                "videoURL": "https://youtu.be/lktpcKCFLP8"
+                "videoURL": "https://youtu.be/lktpcKCFLP8",
+                "date": ""
             }
         ]
     },
@@ -143,7 +143,8 @@
         "completedLevels": [
             {
                 "name": "The Winter Hell",
-                "videoURL": false
+                "videoURL": false,
+                "date": ""
             }
         ]
     },
@@ -154,7 +155,8 @@
         "completedLevels": [
             {
                 "name": "ebloid",
-                "videoURL": " https://youtu.be/M2-PoTROgdA"
+                "videoURL": " https://youtu.be/M2-PoTROgdA",
+                "date": ""
             }
         ]
     },
@@ -165,15 +167,18 @@
         "completedLevels": [
             {
                 "name": "ThunderZone",
-                "videoURL": "https://youtu.be/ZNyO1EkiDKY"
+                "videoURL": "https://youtu.be/ZNyO1EkiDKY",
+                "date": ""
             },
             {
                 "name": "9f321j4lZ10",
-                "videoURL": "https://youtu.be/EqbRb_PJHc4"
+                "videoURL": "https://youtu.be/EqbRb_PJHc4",
+                "date": ""
             },
             {
                 "name": "yo dance",
-                "videoURL": "https://youtu.be/q9qMSRx3uug"
+                "videoURL": "https://youtu.be/q9qMSRx3uug",
+                "date": ""
             }
         ]
     },
