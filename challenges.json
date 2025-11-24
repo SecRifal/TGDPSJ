@@ -8,7 +8,7 @@
     "Verifier": "ARHYSHOWS",
     "verifURL": "https://www.youtube.com/watch?v=E-zeFCSYH94",
     "stars": 40,
-    "skillset": false,
+    "skillset": "wave-diamond; speed-gold; ship-silver",
     "xp": 2000
   },
   {
@@ -20,7 +20,7 @@
     "Verifier": "1nsani1ty",
     "verifURL": "https://youtu.be/q9qMSRx3uug",
     "stars": 35,
-    "skillset": false,
+    "skillset": "wave-diamond; timings-diamond",
     "xp": 1800
   },
   {
@@ -32,7 +32,7 @@
     "Verifier": "KopelaSoula",
     "verifURL": "https://youtu.be/fnKUvkz9Xh8?si=Fe769ge6nX2oSPUF",
     "stars": 30,
-    "skillset": false,
+    "skillset": "wave-gold; timings-gold",
     "xp": 1500
   },
   {
@@ -44,7 +44,7 @@
     "Verifier": "4444",
     "verifURL": "https://youtu.be/epgqKsaUiz0",
     "stars": 25,
-    "skillset": false,
+    "skillset": "wave-gold",
     "xp": 1300
   },
   {
@@ -56,7 +56,7 @@
     "Verifier": "KopelaSoula",
     "verifURL": "https://youtu.be/vfKL1olfII8?si=Zb0_rS0D8x7hLSjS",
     "stars": 23,
-    "skillset": false,
+    "skillset": "ufo-gold; timings-gold",
     "xp": 1200
   },
   {
@@ -68,7 +68,7 @@
     "Verifier": "AkauntNotFound",
     "verifURL": "https://youtu.be/P0wb60-nCkk",
     "stars": 20,
-    "skillset": false,
+    "skillset": "wave-gold; speed-gold",
     "xp": 1100
   },
   {
@@ -80,7 +80,7 @@
     "Verifier": "1NSANI1TY",
     "verifURL": "https://youtu.be/EqbRb_PJHc4",
     "stars": 19,
-    "skillset": false,
+    "skillset": "wave-diamond; timings-diamond; speed-diamond",
     "xp": 1000
   },
   {
@@ -92,7 +92,7 @@
     "Verifier": "KrictNOLr",
     "verifURL": "https://youtu.be/lktpcKCFLP8",
     "stars": 18,
-    "skillset": false,
+    "skillset": "wave-gold; speed-silver; tiimings-silver",
     "xp": 900
   },
   {
@@ -104,7 +104,7 @@
     "Verifier": "sr3l1ck",
     "verifURL": "https://youtu.be/9bYS1tEVQ-U?si=Fxn8F7iNSZjeed18",
     "stars": 15,
-    "skillset": false,
+    "skillset": "wave-silver; spider-gold; ship-gold",
     "xp": 880
   },
   {
@@ -116,7 +116,7 @@
     "Verifier": "corpse12",
     "verifURL": false,
     "stars": 10,
-    "skillset": false,
+    "skillset": "wave-gold",
     "xp": 850
   },
   {
@@ -128,7 +128,7 @@
     "Verifier": "Dumontyt",
     "verifURL": false,
     "stars": 5,
-    "skillset": false,
+    "skillset": "ship-silver",
     "xp": 300
   },
   {
@@ -140,7 +140,7 @@
     "Verifier": "dobryansky",
     "verifURL": false,
     "stars": 4,
-    "skillset": false,
+    "skillset": "wave-gold",
     "xp": 290
   },
   {
@@ -152,7 +152,7 @@
     "Verifier": "sr3l1ck",
     "verifURL": "https://youtu.be/vzvHGSy3OFY",
     "stars": 3,
-    "skillset": false,
+    "skillset": "wave-gold",
     "xp": 250
   },
   {
@@ -164,7 +164,7 @@
     "Verifier": "corpse12",
     "verifURL": false,
     "stars": 2,
-    "skillset": false,
+    "skillset": "wave-silver",
     "xp": 200
   },
   {
@@ -176,7 +176,7 @@
     "Verifier": "Dobryanskyv2",
     "verifURL": false,
     "stars": 1,
-    "skillset": false,
+    "skillset": "wave-silver",
     "xp": 150
   },
   {
@@ -188,7 +188,7 @@
     "Verifier": "dobryansky",
     "verifURL": false,
     "stars": 1,
-    "skillset": false,
+    "skillset": "wave-silver",
     "xp": 100
   }
 ]
