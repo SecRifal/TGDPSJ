@@ -34,7 +34,7 @@
         "Verifier": "sr3l1ck",
         "verifURL": "https://youtu.be/AbvLthoVll4?si=X-CBiPBoqg55k7-q",
         "stars": 20,
-        "skillset": false,
+        "skillset": "ball-silver; timings-gold",
         "diff": "medium demon",
         "xp": 1350
     },
@@ -47,7 +47,7 @@
         "Verifier": "aptmember",
         "verifURL": false,
         "stars": 18,
-        "skillset": false,
+        "skillset": "ship-silver; wave-silver; memory-silver",
         "diff": "easy demon",
         "xp": 1235
     },
@@ -60,7 +60,7 @@
         "Verifier": "aptmember",
         "verifURL": false,
         "stars": 17,
-        "skillset": false,
+        "skillset": "ship-silver; wave-silver; memory-silver",
         "diff": "easy demon",
         "xp": 1200
     },
@@ -73,7 +73,7 @@
         "Verifier": "aptmember",
         "verifURL": false,
         "stars": 16,
-        "skillset": false,
+        "skillset": "ship-silver",
         "diff": "easy demon",
         "xp": 1150
     },
@@ -86,7 +86,7 @@
         "Verifier": "SecRifal",
         "verifURL": false,
         "stars": 15,
-        "skillset": false,
+        "skillset": "wave-silver; ufo-silver; memory-silver",
         "diff": "easy demon",
         "xp": 900
     },
@@ -99,7 +99,7 @@
         "Verifier": "Pivo",
         "verifURL": false,
         "stars": 5,
-        "skillset": false,
+        "skillset": "robot-silver",
         "diff": "easy demon",
         "xp": 700
     }
