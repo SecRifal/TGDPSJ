@@ -8,6 +8,7 @@
         "Verifier": "SecRifal",
         "verifURL": "https://youtu.be/YE2mEpY9aCM",
         "stars": 50,
+        "skillset": "ufo-gold; ball-gold; memory-silver",
         "xp": 2000
     },
     {
@@ -19,6 +20,7 @@
         "Verifier": "SecRifal",
         "verifURL": "https://youtu.be/oiDzOnQmsDQ",
         "stars": 40,
+        "skillset": false,
         "xp": 1650
     },
     {
@@ -30,6 +32,7 @@
         "Verifier": "sr3l1ck",
         "verifURL": "https://youtu.be/AbvLthoVll4?si=X-CBiPBoqg55k7-q",
         "stars": 20,
+        "skillset": false,
         "xp": 1350
     },
     {
@@ -41,6 +44,7 @@
         "Verifier": "aptmember",
         "verifURL": false,
         "stars": 18,
+        "skillset": false,
         "xp": 1235
     },
     {
@@ -52,6 +56,7 @@
         "Verifier": "aptmember",
         "verifURL": false,
         "stars": 17,
+        "skillset": false,
         "xp": 1200
     },
     {
@@ -63,6 +68,7 @@
         "Verifier": "aptmember",
         "verifURL": false,
         "stars": 16,
+        "skillset": false,
         "xp": 1150
     },
     {
@@ -74,6 +80,7 @@
         "Verifier": "SecRifal",
         "verifURL": false,
         "stars": 15,
+        "skillset": false,
         "xp": 900
     },
     {
@@ -85,6 +92,7 @@
         "Verifier": "Pivo",
         "verifURL": false,
         "stars": 5,
+        "skillset": false,
         "xp": 700
     }
 ]

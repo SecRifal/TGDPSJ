@@ -8,6 +8,7 @@
     "Verifier": "ARHYSHOWS",
     "verifURL": "https://www.youtube.com/watch?v=E-zeFCSYH94",
     "stars": 40,
+    "skillset": false,
     "xp": 2000
   },
   {
@@ -19,6 +20,7 @@
     "Verifier": "1nsani1ty",
     "verifURL": "https://youtu.be/q9qMSRx3uug",
     "stars": 35,
+    "skillset": false,
     "xp": 1800
   },
   {
@@ -30,6 +32,7 @@
     "Verifier": "KopelaSoula",
     "verifURL": "https://youtu.be/fnKUvkz9Xh8?si=Fe769ge6nX2oSPUF",
     "stars": 30,
+    "skillset": false,
     "xp": 1500
   },
   {
@@ -41,6 +44,7 @@
     "Verifier": "4444",
     "verifURL": "https://youtu.be/epgqKsaUiz0",
     "stars": 25,
+    "skillset": false,
     "xp": 1300
   },
   {
@@ -52,6 +56,7 @@
     "Verifier": "KopelaSoula",
     "verifURL": "https://youtu.be/vfKL1olfII8?si=Zb0_rS0D8x7hLSjS",
     "stars": 23,
+    "skillset": false,
     "xp": 1200
   },
   {
@@ -63,6 +68,7 @@
     "Verifier": "AkauntNotFound",
     "verifURL": "https://youtu.be/P0wb60-nCkk",
     "stars": 20,
+    "skillset": false,
     "xp": 1100
   },
   {
@@ -74,6 +80,7 @@
     "Verifier": "1NSANI1TY",
     "verifURL": "https://youtu.be/EqbRb_PJHc4",
     "stars": 19,
+    "skillset": false,
     "xp": 1000
   },
   {
@@ -85,6 +92,7 @@
     "Verifier": "KrictNOLr",
     "verifURL": "https://youtu.be/lktpcKCFLP8",
     "stars": 18,
+    "skillset": false,
     "xp": 900
   },
   {
@@ -96,6 +104,7 @@
     "Verifier": "sr3l1ck",
     "verifURL": "https://youtu.be/9bYS1tEVQ-U?si=Fxn8F7iNSZjeed18",
     "stars": 15,
+    "skillset": false,
     "xp": 880
   },
   {
@@ -107,6 +116,7 @@
     "Verifier": "corpse12",
     "verifURL": false,
     "stars": 10,
+    "skillset": false,
     "xp": 850
   },
   {
@@ -118,6 +128,7 @@
     "Verifier": "Dumontyt",
     "verifURL": false,
     "stars": 5,
+    "skillset": false,
     "xp": 300
   },
   {
@@ -129,6 +140,7 @@
     "Verifier": "dobryansky",
     "verifURL": false,
     "stars": 4,
+    "skillset": false,
     "xp": 290
   },
   {
@@ -140,6 +152,7 @@
     "Verifier": "sr3l1ck",
     "verifURL": "https://youtu.be/vzvHGSy3OFY",
     "stars": 3,
+    "skillset": false,
     "xp": 250
   },
   {
@@ -151,6 +164,7 @@
     "Verifier": "corpse12",
     "verifURL": false,
     "stars": 2,
+    "skillset": false,
     "xp": 200
   },
   {
@@ -162,6 +176,7 @@
     "Verifier": "Dobryanskyv2",
     "verifURL": false,
     "stars": 1,
+    "skillset": false,
     "xp": 150
   },
   {
@@ -173,6 +188,7 @@
     "Verifier": "dobryansky",
     "verifURL": false,
     "stars": 1,
+    "skillset": false,
     "xp": 100
   }
 ]
