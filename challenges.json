@@ -36,18 +36,6 @@
     "xp": 1500
   },
   {
-    "name": "ThunderZone",
-    "levelID": "277",
-    "creator": "4444",
-    "videoURL": false,
-    "imageURL": "imgs/challenges/ThunderZone.png",
-    "Verifier": "4444",
-    "verifURL": "https://youtu.be/epgqKsaUiz0",
-    "stars": 25,
-    "skillset": "wave-gold",
-    "xp": 1300
-  },
-  {
     "name": "MONTAGEM ALUCINANTE",
     "levelID": "242",
     "creator": "KopelaSoula",
@@ -58,6 +46,18 @@
     "stars": 23,
     "skillset": "ufo-gold; timings-gold",
     "xp": 1200
+  },
+  {
+    "name": "ThunderZone",
+    "levelID": "277",
+    "creator": "4444",
+    "videoURL": false,
+    "imageURL": "imgs/challenges/ThunderZone.png",
+    "Verifier": "4444",
+    "verifURL": "https://youtu.be/epgqKsaUiz0",
+    "stars": 25,
+    "skillset": "wave-gold",
+    "xp": 1300
   },
   {
     "name": "Final Destiwation",
@@ -72,6 +72,18 @@
     "xp": 1100
   },
   {
+    "name": "ID",
+    "levelID": "301",
+    "creator": "Robik",
+    "videoURL": false,
+    "imageURL": "imgs/challenges/ID.png",
+    "Verifier": "BoSinn",
+    "verifURL": "https://youtu.be/iRMJU-7gOG8?si=LLgTC05taso3VBmC",
+    "stars": 19,
+    "skillset": "timings-diamond; ship-diamond",
+    "xp": 1001
+  },
+  {
     "name": "9f321j4lZ10",
     "levelID": "229",
     "creator": "1NSANI1TY",
@@ -79,7 +91,7 @@
     "imageURL": "imgs/challenges/9f321j4lZ10.png",
     "Verifier": "1NSANI1TY",
     "verifURL": "https://youtu.be/EqbRb_PJHc4",
-    "stars": 19,
+    "stars": 18,
     "skillset": "wave-diamond; timings-diamond; speed-diamond",
     "xp": 1000
   },
@@ -91,7 +103,7 @@
     "imageURL": "imgs/challenges/Aichmophobia Easy.png",
     "Verifier": "KrictNOLr",
     "verifURL": "https://youtu.be/lktpcKCFLP8",
-    "stars": 18,
+    "stars": 16,
     "skillset": "wave-gold; speed-silver; tiimings-silver",
     "xp": 900
   },
