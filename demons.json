@@ -91,6 +91,19 @@
         "xp": 900
     },
     {
+        "name": "Exosphere",
+        "levelID": "275",
+        "creator": "aptmember",
+        "videoURL": false,
+        "imageURL": "imgs/demons/Exosphere.png",
+        "Verifier": "aptmember",
+        "verifURL": false,
+        "stars": 10,
+        "skillset": "robot-silver",
+        "diff": "easy demon",
+        "xp": 800
+    },
+    {
         "name": "Ice",
         "levelID": "142",
         "creator": "Pivo",
