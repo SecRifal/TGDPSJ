@@ -26,6 +26,19 @@
         "xp": 1650
     },
     {
+        "name": "Thunderzone",
+        "levelID": "64",
+        "creator": "aptmember",
+        "videoURL": "",
+        "imageURL": "imgs/demons/Thunderzone.png",
+        "Verifier": "https://youtu.be/618S9Zm1VT8?si=hKzn9ne4W_YTqbUp",
+        "verifURL": "aptmember",
+        "stars": 35,
+        "skillset": "ufo-gold; ship-silver",
+        "diff": "hard demon",
+        "xp": 1600
+    },
+    {
         "name": "End of the time",
         "levelID": "162",
         "creator": "sr3l1ck",
