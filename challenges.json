@@ -1,5 +1,17 @@
 [
   {
+    "name": "Sakupen Processing",
+    "levelID": "240",
+    "creator": "ARHYSHOWS",
+    "videoURL": false,
+    "imageURL": "imgs/challenges/Sakupen Processing.png",
+    "Verifier": "ARHYSHOWS",
+    "verifURL": "https://www.youtube.com/watch?v=LGWvWIKot14",
+    "stars": 55,
+    "skillset": "wave-diamond; speed-gold; ship-silver",
+    "xp": 5100
+  },
+  {
     "name": "The Winter Hell",
     "levelID": "240",
     "creator": "jamichi & ARHYSHOWS",
