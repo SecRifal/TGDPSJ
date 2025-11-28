@@ -30,5 +30,13 @@
     "creator": "S3CTOR",
     "videoURL": "https://youtu.be/6u0nBEr6nSw",
     "img": "https://raw.githubusercontent.com/SecRifal/TGDPSJ/main/images/impossible/Faraway.png"
+  },
+  {
+    "position": 4,
+    "name": "classical II",
+    "levelID": "115",
+    "creator": "SecRifal",
+    "videoURL": "https://youtu.be/9B0VIJK4dzo",
+    "img": "https://raw.githubusercontent.com/SecRifal/TGDPSJ/main/images/impossible/classical_II.png"
   }
 ]
