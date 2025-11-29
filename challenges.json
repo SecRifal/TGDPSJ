@@ -72,6 +72,18 @@
     "xp": 4600
   },
   {
+    "name": "3second of challenge",
+    "levelID": "308",
+    "creator": "Robik",
+    "videoURL": false,
+    "imageURL": "imgs/challenges/3second of challenge.png",
+    "Verifier": "BoSinn",
+    "verifURL": "https://youtu.be/1o4Yk9b0o1A",
+    "stars": 22,
+    "skillset": "ship-gold; timings-gold",
+    "xp": 4400
+  },
+  {
     "name": "Final Destiwation",
     "levelID": "282",
     "creator": "AkauntNotFound",
@@ -108,6 +120,18 @@
     "xp": 4300
   },
   {
+    "name": "google",
+    "levelID": "297",
+    "creator": "Robik",
+    "videoURL": false,
+    "imageURL": "imgs/challenges/google.png",
+    "Verifier": "jamichi",
+    "verifURL": "https://youtu.be/LBEEA7k_KGc",
+    "stars": 17,
+    "skillset": "wave-gold; timings-silver",
+    "xp": 4250
+  },
+  {
     "name": "Aichmophobia Easy",
     "levelID": "259",
     "creator": "KrictNOLr",
@@ -130,6 +154,18 @@
     "stars": 15,
     "skillset": "wave-silver; spider-gold; ship-gold",
     "xp": 4100
+  },
+  {
+    "name": "back on track",
+    "levelID": "303",
+    "creator": "Robik",
+    "videoURL": false,
+    "imageURL": "imgs/challenges/back on track.png",
+    "Verifier": "jamichi",
+    "verifURL": "https://youtu.be/jpjeevblbos",
+    "stars": 12,
+    "skillset": "wave-gold; ship-silver",
+    "xp": 4050
   },
   {
     "name": "xenomorph rule34",
@@ -178,6 +214,18 @@
     "stars": 3,
     "skillset": "wave-gold",
     "xp": 3700
+  },
+  {
+    "name": "King of Kings",
+    "levelID": "317",
+    "creator": "KrictNOLr",
+    "videoURL": false,
+    "imageURL": "imgs/challenges/King of Kings.png",
+    "Verifier": "KrictNOLr",
+    "verifURL": false,
+    "stars": 2,
+    "skillset": "wave-silver; memory-silver",
+    "xp": 3650
   },
   {
     "name": "Great Chamber X",
