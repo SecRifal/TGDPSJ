@@ -60,18 +60,6 @@
     "xp": 4700
   },
   {
-    "name": "ThunderZone",
-    "levelID": "277",
-    "creator": "4444",
-    "videoURL": false,
-    "imageURL": "imgs/challenges/ThunderZone.png",
-    "Verifier": "4444",
-    "verifURL": "https://youtu.be/epgqKsaUiz0",
-    "stars": 23,
-    "skillset": "wave-gold",
-    "xp": 4600
-  },
-  {
     "name": "3second of challenge",
     "levelID": "308",
     "creator": "Robik",
@@ -79,9 +67,21 @@
     "imageURL": "imgs/challenges/3second of challenge.png",
     "Verifier": "BoSinn",
     "verifURL": "https://youtu.be/1o4Yk9b0o1A",
-    "stars": 22,
+    "stars": 23,
     "skillset": "ship-gold; timings-gold",
     "xp": 4400
+  },
+  {
+    "name": "ThunderZone",
+    "levelID": "277",
+    "creator": "4444",
+    "videoURL": false,
+    "imageURL": "imgs/challenges/ThunderZone.png",
+    "Verifier": "4444",
+    "verifURL": "https://youtu.be/epgqKsaUiz0",
+    "stars": 22,
+    "skillset": "wave-gold",
+    "xp": 4600
   },
   {
     "name": "Final Destiwation",
